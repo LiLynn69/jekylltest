@@ -8,4 +8,4 @@ github_username:  LiLynn69
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
