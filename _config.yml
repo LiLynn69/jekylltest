@@ -1,0 +1,11 @@
+# basic options
+title: Learning Jekyll
+author: the webmistress
+email: your-email@domain.com
+description: A wonderful site for your eyes
+twitter_username: jekyllrb
+github_username:  LiLynn69
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
